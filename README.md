@@ -36,8 +36,3 @@ I love to learn. Whatever the tech stack is, I’ll figure it out and get it wor
 - Email: [froilansam@gmail.com](mailto:froilansam@gmail.com)  
 - LinkedIn: [linkedin.com/in/froilansam](https://linkedin.com/in/froilansam)
 
----
-
-### ⚡ Misc
-
-I once down permed my side hair to stop it from sticking out while working. No regrets.
