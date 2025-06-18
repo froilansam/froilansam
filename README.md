@@ -2,7 +2,7 @@
 
 I'm **Froilan Sam Saceda Malibiran**, a front-end heavy but full-stack capable engineer based in Tokyo, Japan.
 
-I build web and mobile applications with React, React Native, and TypeScript — and I focus on shipping things that are clear, maintainable, and useful. Lately, I’ve been working on integrating lightweight AI solutions into user interfaces to improve workflows and usability. I care about building features that actually solve problems and move the product forward.
+I build web and mobile applications with React, React Native, and TypeScript and I focus on shipping things that are clear, maintainable, and useful. Lately, I’ve been working on integrating lightweight AI solutions into user interfaces to improve workflows and usability. I care about building features that actually solve problems and move the product forward.
 
 I love to learn. Whatever the tech stack is, I’ll figure it out and get it working.
 
