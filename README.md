@@ -36,19 +36,3 @@ I love to learn. Whatever the tech stack is, I’ll figure it out and get it wor
 - Email: [froilansam@gmail.com](mailto:froilansam@gmail.com)  
 - LinkedIn: [linkedin.com/in/froilansam](https://linkedin.com/in/froilansam)
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/froilansam">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=froilansam&theme=default&hide_border=false" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/froilansam">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=froilansam&layout=compact&langs_count=10&hide_border=false&theme=default" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
