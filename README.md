@@ -4,6 +4,8 @@
 
 **AI Full Stack Engineer · Based in Tokyo 🇯🇵**
 
+`🚧 AI engineering in progress ▰▰▰▰▰▰▰▱▱▱`
+
 *I build web and mobile apps that are clear, maintainable, and useful, and I talk to my type checker more than I'd like to admit.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-froilanmalibiran.netlify.app-111?style=flat-square&logo=netlify)](https://froilanmalibiran.netlify.app)
@@ -19,6 +21,7 @@ const froye = {
   fullName: "Froilan Sam Saceda Malibiran", // yes, all of it
   basedIn: "Tokyo, Japan",
   role: "AI Full Stack Engineer",
+  status: "AI engineering in progress…", // ETA: soon™
   speaks: ["TypeScript", "JavaScript", "SQL", "Taglish"],
   currentlyInto: "putting lightweight AI into everyday UIs",
   sortsArraysBy: "asking Claude", // used to be Google. growth.
