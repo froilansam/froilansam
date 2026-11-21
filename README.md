@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:3b2f63,100:70a5fd&height=200&section=header&text=Hi,%20I'm%20Froye&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=AI%20Full%20Stack%20Engineer%20%C2%B7%20Tokyo&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hi, I'm Froye. AI Full Stack Engineer, Tokyo" />
 
-<a href="https://github.com/froilansam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=BF91F3&center=true&vCenter=true&width=620&lines=AI+Full+Stack+Engineer+based+in+Tokyo;Front-end+heavy.+Full-stack+capable.;AI+engineering+in+progress...;Still+googling+how+to+sort+an+array;jk%2C+Claude+does+that+now" alt="Typing intro" />
-</a>
-
-<br />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=netlify&logoColor=38bdae)](https://froilanmalibiran.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd)](https://linkedin.com/in/froilansam)
 [![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:froilansam@gmail.com)
