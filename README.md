@@ -2,7 +2,7 @@
 
 # Hi, I'm Froye 👋
 
-**Front-end heavy. Full-stack capable. Based in Tokyo 🇯🇵**
+**AI Full Stack Engineer · Based in Tokyo 🇯🇵**
 
 *I build web and mobile apps that are clear, maintainable, and useful, and I talk to my type checker more than I'd like to admit.*
 
@@ -18,7 +18,7 @@
 const froye = {
   fullName: "Froilan Sam Saceda Malibiran", // yes, all of it
   basedIn: "Tokyo, Japan",
-  role: "Front-end heavy, full-stack capable engineer",
+  role: "AI Full Stack Engineer",
   speaks: ["TypeScript", "JavaScript", "SQL", "Taglish"],
   currentlyInto: "putting lightweight AI into everyday UIs",
   sortsArraysBy: "asking Claude", // used to be Google. growth.
